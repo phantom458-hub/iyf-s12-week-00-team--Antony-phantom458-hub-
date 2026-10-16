@@ -7,16 +7,8 @@
     
   <p>These are some of the programming languages used by data scienists:
       
-  <ul>* Python </ul>
-  <ul>* SQL</ul>
-  <ul>* JavaScript</ul>
+  <ul>Python </ul>
+  <ul>SQL</ul>
+  <ul>JavaScript</ul>
   </p>
   </section>
-
-<section>
-  
-</section>
-
-<section>
-  
-</section>
