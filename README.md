@@ -11,13 +11,6 @@
   <ul>Python </ul>
   <ul>SQL</ul>
   <ul>JavaScript</ul>
+  
   </p>
-  </section>
-
-  <section>
-    
-  </section>
-
-  <section>
-    
-  </section>
+ </section>
